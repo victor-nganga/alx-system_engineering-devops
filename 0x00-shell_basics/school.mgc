@@ -1,3 +1,2 @@
 #!/bin/bash
-O string SCHOOL data
-I:mime School
+O string SCHOOL data file
